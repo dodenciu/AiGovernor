@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp; It started when **X**, an IT freelancer, asked himself how to access all the AI services he used to improve his work into a single application.
+It started when **X**, an IT freelancer, asked himself how to access all the AI services he used to improve his work into a single application.
 Having everything in one place would significantly reduce friction in his workflow. 
 Still, it would allow him to layer some extra functionality on top of the aggregated services.
 
@@ -12,4 +12,4 @@ Another essential aspect was data anonymization. In many cases, X wanted to hide
 
 Soon, **X** discovered that some of his IT friends had the same struggles and ideas regarding interacting with multiple AI-specialized services while working. **It was the time when the AiGovernor was born...**  
 ##
-[Code Map](ProductCode.md) | [Home](README.md)
+© 2024 | [Code Map](ProductCode.md) | [Home](README.md)
