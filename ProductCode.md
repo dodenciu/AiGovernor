@@ -1,5 +1,6 @@
 From a development point of view, this product consists of multiple projects leveraging the advantages of __microservices__ and __microfrontends__ architecture approaches and using infrastructure automation as much as possible.  
 Below, you will find a list with repositories for each project:  
+
 ---
 - [AiGovernor-Docs]()  
 ---
@@ -20,6 +21,8 @@ Below, you will find a list with repositories for each project:
 ---
 - [AiGovernor-Deployment]()
 - [AiGovernor-Web-Deployment]()
----
+---  
+
+
 [The Story](ProductStory.md)  
 [Home](README.md)
