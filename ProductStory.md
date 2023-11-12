@@ -1,3 +1,4 @@
+---
 &nbsp;&nbsp;&nbsp; It started when **X**, an IT freelancer, asked himself how to access all the AI services he used to improve his work into a single application.
 Having everything in one place would significantly reduce friction in his workflow. 
 Still, it would allow him to layer some extra functionality on top of the aggregated services.
