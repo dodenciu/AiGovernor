@@ -15,7 +15,8 @@ Below, you will find a list of repositories for each project.
 - ❌ [AiGovernor-Web-Prompts]()
 - ❌ [AiGovernor-Web-Portal]()
 - ❌ [AiGovernor-Web-Shared]()
-- ❌ [AiGovernor-Web-Tests]()  
+- ❌ [AiGovernor-Web-Tests]()
+- ✅ [AiGoverner-Web-Sales](https://github.com/dodenciu/AiGoverner-Web-Sales)
 ##
 - ❌ [AiGovernor-Deployment]()
 - ❌ [AiGovernor-Web-Deployment]()
