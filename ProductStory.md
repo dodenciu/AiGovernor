@@ -3,11 +3,11 @@ Having everything in one place would significantly reduce friction in his workfl
 Still, it would also allow him to layer some extra functionality on top of the aggregated services.
 
 For example, 
-  >blockquote He wanted to be able to start conversations with a generic AI, like ChatGPT, and based on the responses and his needs to continue with assistance from specialized AIs: Dall-E, Landr, DreamFusion, etc.
+  > He wanted to be able to start conversations with a generic AI, like ChatGPT, and based on the responses and his needs to continue with assistance from specialized AIs: Dall-E, Landr, DreamFusion, etc.
 
-&nbsp;&nbsp;&nbsp; Also, he wanted to know how much time he spent on each of these services and how accurate each was for his needs. 
+Also, he wanted to know how much time he spent on each of these services and how accurate each was for his needs. 
 And that was just the beginning because more types of reports immediately came into his mind.
 
-&nbsp;&nbsp;&nbsp; Another essential aspect was data anonymization. In many cases, X wanted to hide data and metadata from being stored by the original AI provider but at the same time to get meaningful and pragmatic responses.
+Another essential aspect was data anonymization. In many cases, X wanted to hide data and metadata from being stored by the original AI provider but at the same time to get meaningful and pragmatic responses.
 
 &nbsp;&nbsp;&nbsp; Soon, X discovered that some of his IT friends had the same struggles and ideas regarding interacting with multiple AI-specialized services while working. It was the time when the AiGovernor was born.
