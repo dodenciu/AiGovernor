@@ -3,7 +3,7 @@ Below, you will find a list of repositories for each project.
 
 
 - [AiGovernor-Docs]()  
----
+##
 - [AiGovernor-Root]()
 - [AiGovernor-Proxy-Service]()
 - [AiGovernor-License-Service]()
@@ -11,14 +11,14 @@ Below, you will find a list of repositories for each project.
 - [AiGovernor-Portal-Service]()
 - [AiGovernor-Shared-Utils]()
 - [AiGovernor-Shared-Auth]()  
----
+##
 - [AiGovernor-Web-Root]()
 - [AiGovernor-Web-Reports]()
 - [AiGovernor-Web-Prompts]()
 - [AiGovernor-Web-Portal]()
 - [AiGovernor-Web-Shared]()
 - [AiGovernor-Web-Tests]()  
----
+##
 - [AiGovernor-Deployment]()
 - [AiGovernor-Web-Deployment]()  
 
@@ -26,5 +26,5 @@ Below, you will find a list of repositories for each project.
 ##
 
   [The Story](ProductStory.md) | [Home](README.md)  
-  © 2024 Vlad Daniel Dodenciu. All rights reserved.
+  © 2024
 
