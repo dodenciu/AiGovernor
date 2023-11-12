@@ -23,7 +23,8 @@ Below, you will find a list of repositories for each project.
 - [AiGovernor-Web-Deployment]()  
 
 
-<div style="position: absolute; bottom: 10px; right: 10px;">
-  [The Story](ProductStory.md) | [Home](README.md)
-  <p>© 2024 Vlad Daniel Dodenciu. All rights reserved.</p>  
-</div>
+---
+
+  [The Story](ProductStory.md) | [Home](README.md)  
+  © 2024 Vlad Daniel Dodenciu. All rights reserved.
+
