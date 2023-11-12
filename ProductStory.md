@@ -12,5 +12,6 @@ Another essential aspect was data anonymization. In many cases, X wanted to hide
 
 Soon, **X** discovered that some of his IT friends had the same struggles and ideas regarding interacting with multiple AI-specialized services while working. **It was the time when the AiGovernor was born...**
 
-[Code Map](ProductCode.md)
+---
+[Code Map](ProductCode.md)  
 [Home](README.md)
