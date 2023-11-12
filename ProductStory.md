@@ -11,3 +11,6 @@ And that was just the beginning because more types of reports immediately came i
 Another essential aspect was data anonymization. In many cases, X wanted to hide data and metadata from being stored by the original AI provider but at the same time to get meaningful and pragmatic responses.
 
 Soon, **X** discovered that some of his IT friends had the same struggles and ideas regarding interacting with multiple AI-specialized services while working. **It was the time when the AiGovernor was born...**
+
+[Code Map](ProductCode.md)
+[Home](README.md)
