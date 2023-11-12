@@ -2,4 +2,4 @@
 
 This repository provides high-level information about AiGoverner and how to reach the product documentation and code repositories.
 
-Please check [Product Story](ProductStory.md) and navigate through the map of [Product Code](ProductCode.md) for a better understanding.
+Please have a look at the [product story](ProductStory.md) and navigate through the map of the [product code](ProductCode.md) for a better understanding.
